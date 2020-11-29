@@ -1,9 +1,9 @@
-public class myles {
+public class Myles {
     public static void main(String[] args) {
-        int pricemile = 20;
+        int priceMile = 20;
         int ticket = 900;
-        int bonussize = ticket / pricemile;
-        System.out.println(bonussize);
+        int bonusSize = ticket / priceMile;
+        System.out.println(bonusSize);
         ;
     }
 }
