@@ -3,7 +3,7 @@
 Краткое описание
 
 В IIDEA был создан проект «Myles» , В коде приложения введены следующие условия : 
-Pricemile = 20 ; ticket = 900 ; 
+priceMile = 20 ; ticket = 900 ; 
 bonusSize = ticket / priceMile. 
 В итоговом значении bonusSize = 45.
 
